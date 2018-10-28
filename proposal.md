@@ -32,7 +32,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
-The problem we would like to solve is coming up with an efficient and effective way for a college student to manage their weekly schedule. We all agreed that having a digital software to manage everything from class schedules to exams and homework would be invaluable to someone struggling with time management. Physical planners can add weight to your backpck, lose pages or get damaged, and often online calendars do not allow you to track your assignment progress with ease. We propose a solution that includes the best of both worlds.
+The problem we would like to solve is coming up with an efficient and effective way for a college student to manage their weekly schedule. We all agreed that having a digital software to manage everything from class schedules to exams and homework would be invaluable to someone struggling with time management. Physical planners can add weight to your backpack, lose pages or get damaged, and often online calendars do not allow you to track your assignment progress with ease. We propose a solution that includes the best of both worlds.
 
 ## Questions to answer for Exercise #2
 
@@ -44,8 +44,11 @@ The problem we would like to solve is coming up with an efficient and effective 
 
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data. 
+ * start and end dates for classes, homework assignments, and exams
+ * input for markers that indicate an assignment or exam is either "to-do" or completed
+  * Example Input: 10/30/2018\n11/2/2018\n14:30\n
+    * Example input from a user for a homework assignment - this includes starting date, due date, and hourly time due
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
