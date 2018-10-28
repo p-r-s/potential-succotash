@@ -32,6 +32,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+The problem we would like to solve is coming up with an efficient and effective way for a college student to manage their weekly schedule. We all agreed that having a digital software to manage everything from class schedules to exams and homework would be invaluable to someone struggling with time management. Physical planners can add weight to your backpck, lose pages or get damaged, and often online calendars do not allow you to track your assignment progress with ease. We propose a solution that includes the best of both worlds.
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
