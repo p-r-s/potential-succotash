@@ -48,7 +48,7 @@ The problem we would like to solve is coming up with an efficient and effective 
  * Start and end dates for classes, homework assignments, and exams
  * Input for markers that indicate an assignment or exam is either "to-do" or completed
  * Input that displays specified information, such as: class list, class schedule for specific day, to-do list, compeleted list
-  * Example Input: 10/30/2018\n11/2/2018\n14:30\n
+  * Example Input: 10/30/2018 __(enter)__ 11/2/2018 __(enter)__ 14:30 __(enter)__
     * Example input from a user for a homework assignment - this includes starting date, due date, and hourly time due
 
 
