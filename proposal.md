@@ -47,6 +47,7 @@ The problem we would like to solve is coming up with an efficient and effective 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data. 
  * Start and end dates for classes, homework assignments, and exams
  * Input for markers that indicate an assignment or exam is either "to-do" or completed
+ * Input that displays specified information, such as: class list, class schedule for specific day, to-do list, compeleted list
   * Example Input: 10/30/2018\n11/2/2018\n14:30\n
     * Example input from a user for a homework assignment - this includes starting date, due date, and hourly time due
 
