@@ -10,7 +10,7 @@
        * GitHub username 1: ThatcherLarson      name 1: Thatcher Larson
        * GitHub username 2: p-r-s      name 2: Pooja Sivakumar
        * GitHub username 3: WestonN      name 3: Weston Nelson
-       * GitHub username 4:       name 4:
+       * GitHub username 4: Lwitt3      name 4: Leah Witt
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
       * October 28, 2018
