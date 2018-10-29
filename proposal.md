@@ -56,11 +56,13 @@ The problem we would like to solve is coming up with an efficient and effective 
 
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: Name each interface or class and briefly describe its function or purpose.
+* Date: Represents a date, containing members to hold the date, month, and year of a particular date.
+* Time: Represents time in 24-hour format.
+* Task: Represents a task the user would like to add to their schedule, including the date and time due, subject, and type of task.
+* Subject: Represents the subject that the user would like to add a task for. 
+* Schedule: An object of type Schedule contains all tasks that the user has added, along with their types, deadlines, and subjects.
 
-
-
-Name each interface or class and briefly describe its function or purpose.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
