@@ -29,8 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+**Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.**
 
 The problem we would like to solve is coming up with an efficient and effective way for a college student to manage their weekly schedule. We all agreed that having a digital software to manage everything from class schedules to exams and homework would be invaluable to someone struggling with time management. Physical planners can add weight to your backpack, lose pages or get damaged, and often online calendars do not allow you to track your assignment progress with ease. We propose a solution that includes the best of both worlds.
 
@@ -38,11 +38,11 @@ Our program will store user input to help organize weekly tasks for a high schoo
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+**1. Name: Give your project proposal a name (and edit the top line of this file)**
  * Digital Scheduling Assistant
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+**2. Output: Describe the output your program will produce.  Include and example format of the output produced.**
  * The output produced by this program is a concatenation of all classes, tasks remaining, or exams on a given day.
  * After interacting with the text menu to input their data, the program will organize the information and present it in a     clear and organized way. 
  * Example output may look something like the following:
@@ -55,7 +55,7 @@ Our program will store user input to help organize weekly tasks for a high schoo
      You have no exams this week.
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data. 
+**3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.**
  * Start and end dates for classes, homework assignments, and exams
  * Input for markers that indicate an assignment or exam is either "to-do" or completed
  * Input that displays specified information, such as: class list, class schedule for specific day, to-do list, compeleted list
@@ -63,13 +63,13 @@ Our program will store user input to help organize weekly tasks for a high schoo
     * Example input from a user for a homework assignment - this includes starting date, due date, and hourly time due
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+**4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.**
 * The initial "home screen" has an option to either input a new exam, assignment, class, etc. or view a weekly overview of assigments that need to be completed, have been completed, exams coming up, and a daily class schedule. 
 * The input section of the interface is described above, allows the user to choose to add a class, homework, or exam and a due date or time to go with it.  
 * The weekly overview portion of the interface is described in the output portion above.  Prints out a daily schedule, number of assignments that need to be completed and have been, and exams that week.  From there the user could choose to open a tasks menu which will tell them exactly which assignments need to be completed and when. 
 
 
-5. Types List: Name each interface or class and briefly describe its function or purpose.
+**5. Types List: Name each interface or class and briefly describe its function or purpose.**
 * Date: Represents a date, containing members to hold the date, month, and year of a particular date.
 * Time: Represents time in 24-hour format.
 * Task: Represents a task the user would like to add to their schedule, including the date and time due, subject, and type of task.
