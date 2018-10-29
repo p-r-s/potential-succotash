@@ -34,6 +34,8 @@ Describe at a high level a program that could solve that problem.
 
 The problem we would like to solve is coming up with an efficient and effective way for a college student to manage their weekly schedule. We all agreed that having a digital software to manage everything from class schedules to exams and homework would be invaluable to someone struggling with time management. Physical planners can add weight to your backpack, lose pages or get damaged, and often online calendars do not allow you to track your assignment progress with ease. We propose a solution that includes the best of both worlds.
 
+Our program will store user input to help organize weekly tasks for a high school or collge student. The user can input a class list (where each class is an object of type subject) and within each class can submit data regarding class schedule, test dates and homework due dates. The program will provide a text menu to interact with that includes things such as today's classes, tasks list, this week's exams and more. Students can also update tasks to "done" when they are completed and this will show up when the tasks list is printed. 
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
