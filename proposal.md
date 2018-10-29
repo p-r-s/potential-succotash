@@ -1,4 +1,4 @@
-# X-Team 43 Online Scheduling Assistant Proposal
+# X-Team 43 Digital Scheduling Assistant Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -37,7 +37,7 @@ The problem we would like to solve is coming up with an efficient and effective 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
- * Online Scheduling Assistant
+ * Digital Scheduling Assistant
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
