@@ -44,6 +44,7 @@ Our program will store user input to help organize weekly tasks for a high schoo
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
  * The output produced by this program is a concatenation of all classes, tasks remaining, or exams on a given day.
+ * After interacting with the text menu to input their data, the program will organize the information and present it in a     clear and organized way. 
  * Example output may look something like the following:
    * Tasks Completed: 1, Tasks Remaining: 3
    * Today's class schedule:
