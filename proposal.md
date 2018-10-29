@@ -64,7 +64,9 @@ Our program will store user input to help organize weekly tasks for a high schoo
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+* The initial "home screen" has an option to either input a new exam, assignment, class, etc. or view a weekly overview of assigments that need to be completed, have been completed, exams coming up, and a daily class schedule. 
+* The input section of the interface is described above, allows the user to choose to add a class, homework, or exam and a due date or time to go with it.  
+* The weekly overview portion of the interface is described in the output portion above.  Prints out a daily schedule, number of assignments that need to be completed and have been, and exams that week.  From there the user could choose to open a tasks menu which will tell them exactly which assignments need to be completed and when. 
 
 
 5. Types List: Name each interface or class and briefly describe its function or purpose.
